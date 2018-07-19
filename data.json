@@ -1,0 +1,45 @@
+{"basics":{
+"image":"images.jpg",
+"name":"Sravya",
+"phoneno":"+91-1629162911",
+"email":"sravyagangula@gmail.com",
+"Address":"SRKR College,Bhimavaram."
+},
+"CarrerObjectives":
+{
+  "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+
+},
+"education":[
+  {
+"degree":"Btech",
+"institute":"Sagi RamaKrishanamRaju Engineering College",
+"data":["2016-2020,83%"]
+},
+{
+"degree":"Intermediate",
+"institute":"Sri Chaitanya",
+"data":["2014-2016,96%"]
+},
+{
+  "degree":"SSC",
+  "institute":"DR KKR GOWTHAM INTERNATIONAL SCHOOL",
+  "data":["2014,97%"]
+}
+],
+"skills":[
+  {
+    "title":"languages",
+    "data":["c","c++","java","python"]
+
+  },
+  {
+    "title":"database managment systems",
+    "data":["sql","mysql","oracle"]
+  },
+  {
+    "title":"operating systems",
+    "data":["ubuntu","windows","android"]
+  }
+]
+}

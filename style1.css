@@ -1,0 +1,16 @@
+<html>
+<head>
+.parent{
+display:flex;
+flex-direction:row;
+border:3px solid red;
+}
+.childhood{
+border: 3px solid blue;
+padding:2%;
+margin:2%;
+width:30%;
+}
+.childtwo{
+border: 3px solid blue
+}

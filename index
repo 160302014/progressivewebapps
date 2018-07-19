@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr"
+<head>
+<meta charset="utf.8"
+<title>flexbox</title>
+<style>
+.flex>div{
+background-color: blue;
+margin: 2%;
+padding: 5%;
+}
+</style>
+</head>
+<body>
+<div class="flex">
+<div>A</div>
+<div>B</div>
+<div>C</div>
+<div>D</div>
+</div>
+</body>
+</html>
